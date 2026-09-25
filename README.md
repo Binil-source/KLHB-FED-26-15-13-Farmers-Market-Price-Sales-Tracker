@@ -1,0 +1,2 @@
+# KLHB-FED-26-15-13-Farmers-Market-Price-Sales-Tracker
+A Farmers Market Price &amp; Sales Tracker is an essential digital tool designed for agricultural vendors to record daily produce pricing, monitor customer purchase volumes, evaluate inventory turnover, and analyze total revenue trends. It simplifies booth management, tracks seasonal earnings, and optimizes profit strategies for your local market stall
