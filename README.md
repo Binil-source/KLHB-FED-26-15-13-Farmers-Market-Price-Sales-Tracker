@@ -1,5 +1,5 @@
 # KLHB-FED-26-15-13
-# Farmers' Market Price & Sales Tracker
+# Farmer's Market Price & Sales Tracker
 Console-Based Java Application for Recording Market Prices and Sales
 
 ## Project Overview
