@@ -1,5 +1,4 @@
-public class Week1 {
-    public class Week1Tracker {
+public class Week1Tracker {
     public static void main(String[] args) {
         // INPUT  (fixed values for week 1 - no Scanner yet)
         String productName = "Tomato";
@@ -24,7 +23,4 @@ public class Week1 {
 
         // Desk-check: 40.0 * 5 = 200.0
     }
-}
-
-
 }
