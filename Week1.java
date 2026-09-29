@@ -13,7 +13,7 @@ public class Week1Tracker {
         System.out.println("======================================");
         System.out.println(" Farmers' Market Price & Sales Tracker");
         System.out.println(" Week 1 - First Program");
-        System.out.println("======================================");
+        System.out.print("======================================");
         System.out.println("Product : " + productName);
         System.out.println("Unit    : " + unit);
         System.out.println("Price   : " + unitPrice);
