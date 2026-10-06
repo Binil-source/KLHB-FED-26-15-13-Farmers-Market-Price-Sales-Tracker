@@ -17,7 +17,7 @@ public class Week3Select {
         System.out.print("Enter quantity sold : ");
         int qty = sc.nextInt();
 
-        // validation
+        // Validation
         if (price <= 0 || qty <= 0) {
             System.out.println("Invalid price or quantity. Sale cancelled.");
             sc.close();
@@ -36,7 +36,7 @@ public class Week3Select {
             size = "BULK";
         }
 
-        // switch on unit
+        // Switch on unit
         String unitLabel;
         switch (unit.toLowerCase()) {
             case "kg":
