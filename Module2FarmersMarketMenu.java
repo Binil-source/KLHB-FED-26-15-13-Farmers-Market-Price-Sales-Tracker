@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Module2 {
+public class FarmersMarketMenu {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int choice = -1;
