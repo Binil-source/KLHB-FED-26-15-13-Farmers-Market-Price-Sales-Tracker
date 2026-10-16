@@ -7,6 +7,7 @@ public class Module2MarketPriceManager {
         int choice;
 
         do {
+            
             System.out.println("\n1. Calculate total");
             System.out.println("2. Check price category");
             System.out.println("0. Exit");
