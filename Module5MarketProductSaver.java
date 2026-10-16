@@ -60,7 +60,5 @@ public class Module5 {
         } catch (IOException e) {
             System.out.println("File error: " + e.getMessage());
         }
-
-        sc.close();
     }
 }
