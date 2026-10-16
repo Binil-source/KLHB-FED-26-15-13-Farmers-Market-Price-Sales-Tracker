@@ -31,8 +31,7 @@ public class Module6MarketSalesAnalyzer {
         sales.add(new ProduceSale("Vegetables", 250));
         sales.add(new ProduceSale("Fruits", 300));
 
-        Map<String, Long> numberByCategory = sales.stream()
-                .collect(Collectors.groupingBy(
+        Map<String, Long> numberByCategory = sales.stream().collect(Collectors.groupingBy(
                         ProduceSale::getCategory,
                         Collectors.counting()));
 
