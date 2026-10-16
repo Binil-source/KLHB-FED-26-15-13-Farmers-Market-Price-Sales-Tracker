@@ -43,8 +43,7 @@ public class Module3MarketSalesAnalyzer {
             }
         }
 
-        System.out.printf("Total sales amount: Rs. %.2f%n",
-                matrixTotal(sales));
+        System.out.printf("Total sales amount: Rs. %.2f%n",matrixTotal(sales));
 
         System.out.print("Enter amount threshold: ");
         double threshold = sc.nextDouble();
