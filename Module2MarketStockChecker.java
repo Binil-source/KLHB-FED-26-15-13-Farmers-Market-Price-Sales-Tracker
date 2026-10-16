@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Module2MarketStockChecker {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int lowStockCount = 0;
+        int lowStockCount = 0;hi jVA
 
         for (int i = 1; i <= 5; i++) {
             System.out.print("Enter stock for product " + i + " (kg): ");
