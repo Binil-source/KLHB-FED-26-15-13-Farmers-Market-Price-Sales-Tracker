@@ -38,7 +38,6 @@ public class Module5DailyMarketSalesTracker {
             System.out.println("Could not access the file: "
                     + e.getMessage());
         } finally {
-            sc.close();
         }
     }
 }
