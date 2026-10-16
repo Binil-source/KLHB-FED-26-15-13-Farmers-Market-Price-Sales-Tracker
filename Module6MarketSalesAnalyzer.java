@@ -35,8 +35,7 @@ public class Module6MarketSalesAnalyzer {
 
         Map<String, Double> revenueByCategory = sales.stream().collect(Collectors.groupingBy(ProduceSale::getCategory,Collectors.summingDouble(ProduceSale::getAmount)));
 
-        System.out.println("Number of sales by category: "
-                + numberByCategory);
+        System.out.println("Number of sales by category: "+ numberByCategory);
         System.out.println("Revenue by category: "
                 + revenueByCategory);
 
