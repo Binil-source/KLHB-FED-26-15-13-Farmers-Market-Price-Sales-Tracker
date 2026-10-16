@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FarmersMarketMenu {
+public class FarmersMarketMenu 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int choice = -1;
