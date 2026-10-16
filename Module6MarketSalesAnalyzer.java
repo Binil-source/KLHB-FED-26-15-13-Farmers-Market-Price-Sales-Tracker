@@ -19,6 +19,7 @@ class ProduceSale {
 
     public double getAmount() {
         return amount;
+        
     }
 }
 
