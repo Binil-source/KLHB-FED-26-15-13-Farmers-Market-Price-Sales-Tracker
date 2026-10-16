@@ -10,7 +10,7 @@ public class Module2MarketPriceManager {
             System.out.println("\n1. Calculate total");
             System.out.println("2. Check price category");
             System.out.println("0. Exit");
-            System.out.print("Choose: ");
+            System.out.print("Choose: ");chooose
             choice = sc.nextInt();
 
             switch (choice) {
