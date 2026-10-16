@@ -49,8 +49,7 @@ public class Module3MarketSalesAnalyzer {
         System.out.print("Enter amount threshold: ");
         double threshold = sc.nextDouble();
 
-        System.out.println("Number of entries above threshold: "
-                + countSalesAbove(sales, threshold));
+        System.out.println("Number of entries above threshold: "+ countSalesAbove(sales, threshold));
 
         sc.close();
     }
