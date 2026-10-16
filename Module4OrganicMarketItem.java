@@ -1,7 +1,7 @@
 
 class MarketItem {
     protected String name;
-    protected double price;
+    protected double price
 
     public MarketItem(String name, double price) {
         this.name = name;
