@@ -22,8 +22,7 @@ public class {
         System.out.printf("Price per kg: Rs. %.2f%n", price);
         System.out.printf("Quantity: %d kg%n", quantity);
         System.out.printf("Stock value: Rs. %.2f%n", stockValue);
-        System.out.printf("Estimated market fee (2%%): Rs. %.2f%n",
-                marketFee);
+        System.out.printf("Estimated market fee (2%%): Rs. %.2f%n",marketFee);
 
         int wholePrice = (int) price;
         System.out.println("Price converted to int: " + wholePrice);
